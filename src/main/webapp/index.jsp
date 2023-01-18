@@ -51,9 +51,9 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>hurre grp-3 success</h1>
-        <h2>succeful pipe line run</h2>
-        <p>This is from dev branch. </p>
+        <h1>pranali project success</h1>
+        <h2>really</h2>
+        <p>is it a joke hahaha </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
